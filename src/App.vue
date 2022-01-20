@@ -6,6 +6,7 @@
       <router-link to="/ch05">Ch05</router-link> |
       <router-link to="/ch06">Ch06</router-link> |
       <router-link to="/ch07">Ch07</router-link> |
+      <router-link to="/ch08">Ch08</router-link> |
     </div>
     <router-view/>
   </div>
