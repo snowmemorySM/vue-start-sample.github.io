@@ -6,6 +6,7 @@ import Ch06 from '../views/Ch06.vue'
 import Ch07 from '../views/Ch07.vue'
 import Ch08 from '../views/Ch08.vue'
 import Ch09 from '../views/Ch09.vue'
+import Ch10 from '../views/Ch10.vue'
 
 Vue.use(VueRouter)
 
@@ -47,6 +48,11 @@ const routes = [
     path: '/ch09',
     name: 'Ch09',
     component: Ch09
+  },
+  {
+    path: '/ch10',
+    name: 'Ch10',
+    component: Ch10
   }
   
 ]
