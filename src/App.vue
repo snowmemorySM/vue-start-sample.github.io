@@ -9,6 +9,7 @@
       <router-link to="/ch08">Ch08</router-link> |
       <router-link to="/ch09">Ch09</router-link> |
       <router-link to="/ch10">Ch10</router-link> |
+      <router-link to="/ch11">Ch11</router-link> |
     </div>
     <router-view/>
   </div>
